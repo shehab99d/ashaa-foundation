@@ -6,7 +6,7 @@ A beautifully crafted, responsive **Impact Section** built with React and Tailwi
 
 ## 🚀 Live Demo
 
-[🔗 Live Site]([https://your-live-site-url.com](https://ashaa-foundation.web.app/))
+[🔗 Live Site](https://ashaa-foundation.web.app/)
 
 ---
 
