@@ -1,12 +1,39 @@
-# React + Vite
+# 🌟 Asha Foundation – Impact Section
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautifully crafted, responsive **Impact Section** built with React and Tailwind CSS, designed to showcase how Asha Foundation is changing lives with real metrics.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+[🔗 Live Site](https://your-live-site-url.com)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧩 Features
+
+- ✅ Modern card layout with animated scroll effects
+- 🎨 Dark-themed gradient background
+- ✨ Framer Motion animations
+- 📱 Fully responsive (Mobile, Tablet, Desktop)
+- 💛 Highlighted impact numbers
+- 🔥 Minimalistic and clean UI
+
+---
+
+## 📸 Preview
+
+![Impact Section Preview](./preview.png)
+
+---
+
+## 📁 File Structure
+
+```bash
+src/
+│
+├── components/
+│   └── ImpactSection.jsx   # Main Impact Section
+│
+├── App.jsx                 # Usage example
+└── index.css               # Tailwind CSS included
